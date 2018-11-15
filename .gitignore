@@ -1,0 +1,15 @@
+**/Miscellaneous/*
+**/.ipynb_checkpoints/*
+**/__pycache__/*
+**/Tableau/*
+_env.py
+ezlink-201702-bus.csv
+lta_scheduled_bus_routes_for_feb2017.csv
+New\ Text\ Document.txt
+Proute\ 31\ Jul\ 2018v1.pptx
+**/Version\ 0.1/plots_0.1/*
+**/Version\ 0.1/bus_dist_series_data_0.1.csv
+**/Version\ 0.1/dtw_distance_mat_0.1.csv
+**/Version\ 0.2/plots_0.2/*
+**/Version\ 0.2/bus_dist_series_data_0.2.csv
+**/Version\ 0.2/bus_dist_series_data_loop_0.2.csv
